@@ -1,0 +1,1 @@
+minispade.register('ember-data/system/relationships', "(function() {/**\n  @module ember-data\n*/\nminispade.require(\"ember-data/system/relationships/belongs_to\");\nminispade.require(\"ember-data/system/relationships/has_many\");\nminispade.require(\"ember-data/system/relationships/ext\");\n\n})();\n//@ sourceURL=ember-data/system/relationships");

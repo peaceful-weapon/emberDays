@@ -1,0 +1,1 @@
+minispade.register('ember-inflector/system/string', "(function() {Ember.String.pluralize = function(word) {\n  return Ember.Inflector.inflector.pluralize(word);\n};\n\nEmber.String.singularize = function(word) {\n  return Ember.Inflector.inflector.singularize(word);\n};\n\n})();\n//@ sourceURL=ember-inflector/system/string");

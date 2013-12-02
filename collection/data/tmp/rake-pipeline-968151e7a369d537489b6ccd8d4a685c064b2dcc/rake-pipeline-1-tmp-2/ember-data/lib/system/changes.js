@@ -1,0 +1,1 @@
+minispade.register('ember-data/system/changes', "(function() {/**\n  @module ember-data\n*/\nminispade.require(\"ember-data/system/changes/attribute_change\");\nminispade.require(\"ember-data/system/changes/relationship_change\");\n\n})();\n//@ sourceURL=ember-data/system/changes");

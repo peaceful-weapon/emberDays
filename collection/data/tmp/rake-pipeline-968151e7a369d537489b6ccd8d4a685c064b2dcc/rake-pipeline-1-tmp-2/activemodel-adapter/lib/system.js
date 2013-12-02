@@ -1,0 +1,1 @@
+minispade.register('activemodel-adapter/system', "(function() {minispade.require('activemodel-adapter/system/active_model_adapter');\n})();\n//@ sourceURL=activemodel-adapter/system");

@@ -1,0 +1,1 @@
+minispade.register('ember-data/transforms/index', "(function() {minispade.require('ember-data/transforms/base');\nminispade.require('ember-data/transforms/boolean');\nminispade.require('ember-data/transforms/date');\nminispade.require('ember-data/transforms/number');\nminispade.require('ember-data/transforms/string');\n})();\n//@ sourceURL=ember-data/transforms/index");

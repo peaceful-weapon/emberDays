@@ -1,0 +1,1 @@
+minispade.register('ember-data/system/model', "(function() {/**\n  @module ember-data\n*/\nminispade.require(\"ember-data/system/model/model\");\nminispade.require(\"ember-data/system/model/states\");\nminispade.require(\"ember-data/system/model/attributes\");\n\n})();\n//@ sourceURL=ember-data/system/model");

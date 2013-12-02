@@ -1,0 +1,1 @@
+minispade.register('ember-inflector', "(function() {minispade.require('ember-inflector/system');\n\n})();\n//@ sourceURL=ember-inflector");

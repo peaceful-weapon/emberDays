@@ -1,0 +1,2 @@
+MemeTrain.ApplicationAdapter = DS.FixtureAdapter;
+
